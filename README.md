@@ -27,7 +27,7 @@
   </li>
 </ul>
 
-<h4 align="left">Check some of my stats</h4>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salitomeyo&show_icons=true&locale=en&layout=compact" alt="salitomeyo" /></p>
+<h4 align="left">Check out some of my stats</h4>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salitomeyo&count_private=true&show_icons=true&locale=en&layout=compact&theme=nord" alt="salitomeyo" /></p>
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salitomeyo&show_icons=true&locale=en" alt="salitomeyo" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salitomeyo&count_private=true&show_icons=true&locale=en&theme=nord" alt="salitomeyo" /></p>
